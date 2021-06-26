@@ -1,4 +1,4 @@
 # TOCCHIO-
 
 Dio porco
-https://colab.research.google.com/github/alleLLon/TOCCHIO-/blob/main/TOCCHIO%F0%9F%A5%B6%F0%9F%A5%B6%F0%9F%A5%B6.ipynb
+https://colab.research.google.com/drive/1fXaNIn7fpfbEWRgROYFagC8FabY0Ia7n?usp=sharing
